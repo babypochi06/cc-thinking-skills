@@ -1,16 +1,16 @@
 # Claude Code Thinking Skills
 
-> **38 Mental Models and Frameworks for Critical Thinking in Claude Code**
+> **39 Mental Models and Frameworks for Critical Thinking in Claude Code**
 
 A comprehensive collection of thinking skills for [Claude Code](https://claude.ai/claude-code) that enhance AI-assisted problem solving, decision making, and strategic analysis. These skills provide structured frameworks based on proven mental models from leaders in systems thinking, cognitive science, and strategic analysis.
 
 [![Claude Code Skills](https://img.shields.io/badge/Claude_Code-Skills-7C3AED?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMiAxN0wxMiAyMkwyMiAxNyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+)](https://github.com/tjboudreaux/cc-thinking-skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills Count](https://img.shields.io/badge/Skills-38-blue)](https://github.com/tjboudreaux/cc-thinking-skills)
+[![Skills Count](https://img.shields.io/badge/Skills-39-blue)](https://github.com/tjboudreaux/cc-thinking-skills)
 
 ## Features
 
-- **38 Thinking Frameworks** - Comprehensive mental models for better decision-making
+- **39 Thinking Frameworks** - Comprehensive mental models for better decision-making
 - **Battle-Tested** - Based on proven frameworks from cognitive science and systems thinking
 - **Claude Code Native** - Designed specifically for Claude Code's skill system
 - **Quality Scripts** - Tools to validate and enhance skill quality
@@ -116,6 +116,7 @@ Once installed, invoke any skill by name in Claude Code:
 
 | Skill | Description | Best For |
 |-------|-------------|----------|
+| `thinking-model-router` | **START HERE** - Route to the right model by domain | Entry point for all thinking skills |
 | `thinking-model-selection` | Choose the right model for the problem | New problems, approach selection |
 | `thinking-model-combination` | Combine multiple models for richer analysis | Complex problems, high-stakes decisions |
 
