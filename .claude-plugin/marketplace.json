@@ -1,0 +1,28 @@
+{
+  "name": "thinking-skills-marketplace",
+  "owner": {
+    "name": "TJ Boudreaux",
+    "email": "tj@tjboudreaux.com"
+  },
+  "metadata": {
+    "description": "Mental Models and Thinking Frameworks for Claude Code - 39 battle-tested frameworks for better decision-making",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "thinking-skills",
+      "source": "./",
+      "description": "39 Mental Models and Frameworks for Critical Thinking including first-principles, Bayesian reasoning, systems thinking, TRIZ, OODA, pre-mortem analysis, and more",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "thinking",
+        "mental-models",
+        "decision-making",
+        "systems-thinking",
+        "problem-solving",
+        "cognitive-frameworks"
+      ]
+    }
+  ]
+}

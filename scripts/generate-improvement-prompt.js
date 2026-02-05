@@ -12,7 +12,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SKILLS_DIR = path.join(__dirname, '..', '.claude', 'skills');
+const SKILLS_DIR = path.join(__dirname, '..', 'skills');
 
 // Quality criteria for the prompt
 const QUALITY_CRITERIA = `

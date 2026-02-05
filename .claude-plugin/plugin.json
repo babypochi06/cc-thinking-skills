@@ -1,0 +1,23 @@
+{
+  "name": "thinking-skills",
+  "description": "39 Mental Models and Frameworks for Critical Thinking in Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "TJ Boudreaux",
+    "url": "https://github.com/tjboudreaux"
+  },
+  "homepage": "https://github.com/tjboudreaux/cc-thinking-skills",
+  "repository": "https://github.com/tjboudreaux/cc-thinking-skills",
+  "license": "MIT",
+  "keywords": [
+    "mental-models",
+    "thinking",
+    "decision-making",
+    "systems-thinking",
+    "first-principles",
+    "bayesian-reasoning",
+    "cognitive-bias",
+    "strategic-thinking",
+    "problem-solving"
+  ]
+}

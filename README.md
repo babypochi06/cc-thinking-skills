@@ -18,19 +18,39 @@ A comprehensive collection of thinking skills for [Claude Code](https://claude.a
 
 ## Quick Start
 
-### Installation
+### Installation via Plugin Marketplace (Recommended)
 
-Clone this repository and copy the skills to your Claude Code configuration:
+Install directly in Claude Code using the plugin system:
+
+```bash
+# Add the marketplace
+/plugin marketplace add tjboudreaux/cc-thinking-skills
+
+# Install the plugin
+/plugin install thinking-skills@thinking-skills-marketplace
+```
+
+### Alternative: Manual Installation
+
+Clone and copy skills directly:
 
 ```bash
 # Clone the repository
 git clone https://github.com/tjboudreaux/cc-thinking-skills.git
 
 # Copy skills to your global Claude Code config
-cp -r cc-thinking-skills/.claude/skills/* ~/.claude/skills/
+cp -r cc-thinking-skills/skills/* ~/.claude/skills/
 
 # Or copy to a specific project
-cp -r cc-thinking-skills/.claude/skills/* /path/to/your/project/.claude/skills/
+cp -r cc-thinking-skills/skills/* /path/to/your/project/.claude/skills/
+```
+
+### Development: Load as Local Plugin
+
+For testing or development:
+
+```bash
+claude --plugin-dir ./cc-thinking-skills
 ```
 
 ### Usage
@@ -225,7 +245,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Adding New Skills
 
-1. Create a new directory under `.claude/skills/` with the format `thinking-{name}`
+1. Create a new directory under `skills/` with the format `thinking-{name}`
 2. Add a `SKILL.md` file with YAML frontmatter:
 ```yaml
 ---

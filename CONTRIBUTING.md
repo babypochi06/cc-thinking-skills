@@ -23,8 +23,8 @@ Avoid:
 #### 2. Create the Skill Structure
 
 ```bash
-mkdir .claude/skills/thinking-{your-skill-name}
-touch .claude/skills/thinking-{your-skill-name}/SKILL.md
+mkdir skills/thinking-{your-skill-name}
+touch skills/thinking-{your-skill-name}/SKILL.md
 ```
 
 #### 3. Write the SKILL.md File

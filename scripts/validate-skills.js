@@ -10,7 +10,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SKILLS_DIR = path.join(__dirname, '..', '.claude', 'skills');
+const SKILLS_DIR = path.join(__dirname, '..', 'skills');
 
 // Required sections and their markers
 const REQUIRED_SECTIONS = [

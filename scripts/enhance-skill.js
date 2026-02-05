@@ -12,7 +12,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SKILLS_DIR = path.join(__dirname, '..', '.claude', 'skills');
+const SKILLS_DIR = path.join(__dirname, '..', 'skills');
 
 // Enhancement patterns with templates
 const ENHANCEMENTS = {
